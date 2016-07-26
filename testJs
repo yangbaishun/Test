@@ -1,0 +1,5 @@
+创建了一个测试用JS文件
+
+function testJs(){
+  alert("abc");
+}
